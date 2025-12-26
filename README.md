@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Hafid Al Khair</h1>
-<h3 align="center">Full Stack Developer • Tech Enthusiast</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafidalkhair&label=Profile%20views&color=0e75b6&style=flat" alt="hafidalkhair" />
 </p>
-
 ---
-
 ### 🚀 About Me
-- 💻 Full Stack Developer
 - 🌱 Currently learning **Flutter, React & Backend Development**
 - 🔧 Love building **real-world apps & campus projects**
 - 🐧 Linux user
 
 ---
-
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,php,postgresql,mysql,tailwind,bootstrap,figma,git,linux,flutter" />
+  <img src="https://skillicons.dev/icons?i=flutter,linux,mysql,laravel,css,html,git,vue" />
 </p>
 
 ---
