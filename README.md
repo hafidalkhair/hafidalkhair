@@ -23,10 +23,8 @@
 ---
 
 ### 📌 Featured Projects
-- 📱 **Aplikasi PanganKu** — Flutter
-- 🛒 **Shopping Cart App** — JavaScript
-- ✈️ **Travel Web** — React + Tailwind
-- 📰 **MERN Blog App** — MongoDB, Express, React, Node
+- 📱 **KipiangMbo** — Flutter
+- 🛒 **Menu Caffe** — Laravel + Breeze
 
 ⬇️ *See pinned repositories below*
 
