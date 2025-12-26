@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hafidalkhair&label=Profile%20views&color=0e75b6&style=flat" alt="hafidalkhair" />
 </p>
----
-### 🚀 About Me
-- 🌱 Currently learning **Flutter, React & Backend Development**
-- 🔧 Love building **real-world apps & campus projects**
-- 🐧 Linux user
 
 ---
 ### 🛠️ Tech Stack
